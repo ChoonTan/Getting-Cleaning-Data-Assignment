@@ -9,4 +9,4 @@ Run run_analysis.R scrip is expected to perform the following;
 4. Apply appropriately labels the data set with descriptive variable names.
 5. Generate a second, independent clean data set with the average of each variable for each activity and each subject.
 
-Codebook.mb details the variables used in the assignment#
+Codebook.mb details the variables used in the assignment
